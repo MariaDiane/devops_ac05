@@ -1,7 +1,7 @@
 # devops_ac05
 
 1 - 
-![alt](https://raw.githubusercontent.com/mariadiane/devops_ac05/main/print01.PNG)
+![alt](https://github.com/MariaDiane/devops_ac05/blob/main/print01.png)
 
 2 - 
 ![alt](https://raw.githubusercontent.com/mariadiane/devops_ac05/main/print02.PNG)
