@@ -1,16 +1,16 @@
 # devops_ac05
 
-1 - 
-![alt](https://github.com/MariaDiane/devops_ac05/blob/main/print01.png)
+## Utlizando estilo de código para SQL.
+![alt tag](https://github.com/MariaDiane/devops_ac05/blob/main/print01.png)
 
-2 - 
-![alt](https://raw.githubusercontent.com/mariadiane/devops_ac05/main/print02.PNG)
+##  Script antes de aplicar sqlfluff
+![alt tag](https://github.com/MariaDiane/devops_ac05/blob/main/print02.png)
 
-3 - 
-![alt](https://raw.githubusercontent.com/mariadiane/devops_ac05/main/print03.PNG)
+## Aplicando sqlfluff para correção do script 
+![alt tag](https://github.com/MariaDiane/devops_ac05/blob/main/print03.png)
 
-4 - 
-![alt](https://raw.githubusercontent.com/mariadiane/devops_ac05/main/print04.PNG)
+##  Scrip correto após aplicação do sqlfluff
+![alt tag](https://github.com/MariaDiane/devops_ac05/blob/main/print04.png)
 
-5 - 
-![alt](https://raw.githubusercontent.com/mariadiane/devops_ac05/main/print05.PNG)
+## Confirmação do sqlfluff fix para seus respectivos scripts
+![alt tag](https://github.com/MariaDiane/devops_ac05/blob/main/print05.png)
